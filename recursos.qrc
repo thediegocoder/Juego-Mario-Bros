@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/cloud-big.png</file>
+        <file>imagenes/hill-big.png</file>
+        <file>imagenes/mario-big-crouch.png</file>
+        <file>imagenes/mario-big-hang-0.png</file>
+        <file>imagenes/mario-big-hang-1.png</file>
+        <file>imagenes/mario-big-jump.png</file>
+        <file>imagenes/mario-big-run.png</file>
+        <file>imagenes/mario-big-stand.png</file>
+        <file>imagenes/mario-big-walk-0.png</file>
+        <file>imagenes/mario-big-walk-1.png</file>
+        <file>imagenes/mario-big-walk-2.png</file>
+        <file>imagenes/mario-med-stand.bmp</file>
+        <file>imagenes/mario-small-fall.png</file>
+        <file>imagenes/mario-small-hang-0.png</file>
+        <file>imagenes/mario-small-hang-1.png</file>
+        <file>imagenes/mario-small-jump.png</file>
+        <file>imagenes/mario-small-run.png</file>
+        <file>imagenes/mario-small-stand.png</file>
+        <file>imagenes/mario-small-walk-0.png</file>
+        <file>imagenes/mario-small-walk-1.png</file>
+        <file>imagenes/mario-small-walk-2.png</file>
+        <file>imagenes/wall.png</file>
+        <file>imagenes/pipe-small.png</file>
+        <file>musica/death.wav</file>
+        <file>musica/overworld.wav</file>
+        <file>musica/jump-small.wav</file>
+        <file>imagenes/icon.png</file>
+    </qresource>
+</RCC>
